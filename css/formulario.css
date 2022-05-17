@@ -36,6 +36,10 @@ input{
   background-color: blue;
   color: white;
   display: flex;
-  justify-self: end;
-  align-self: flex-end;
+  justify-content: center;
+  margin-top: 20px;
+  align-items: center;
+  font-size: 13px;
+  cursor: pointer;
+
 }
